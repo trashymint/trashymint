@@ -2,7 +2,7 @@
 
 I'm a Systems Engineering student interested in databases, cybersecurity, data management, and IoT.
 
-## Programming Languages
+### Programming Languages
 Proficient in:
 - C++
 - JavaScript
